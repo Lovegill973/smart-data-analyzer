@@ -1,3 +1,7 @@
+#live demmo
+https://smart-data-analyzer-tyhuedev8mcyx2we7heu9e.streamlit.app/
+
+
 # 📊 Smart Data Analyzer
 
 A web-based data analysis tool built using Python and Streamlit that allows users to upload datasets, visualize data, and generate AI-powered insights.
